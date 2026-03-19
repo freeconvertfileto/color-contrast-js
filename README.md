@@ -2,7 +2,7 @@
 
 Calculate WCAG contrast ratios between foreground and background colors and check AA/AAA accessibility compliance, entirely in the browser.
 
-**Live Demo:** https://file-converter-free.com/en/developer-tools/color-contrast
+**Live Demo:** https://file-converter-free.com/en/developer-tools/color-contrast-online
 
 ## How It Works
 
